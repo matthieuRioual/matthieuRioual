@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @matthieulapatate
+- 👋 Hi, I’m Matthieu
 - 👀 I’m interested in computer sciences overall
 - 🌱 I’m currently learning machine learning, big data, web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nice project with nice team :D
 - 📫 How to reach me m.rioual83@gmail.com
 
 <!---
